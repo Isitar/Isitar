@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a swiss software engineer. Feel free to look around, the most interesting projects are pinned.
+
+I'm currently working with .NET and VUE. I'm also working with docker, k8s and other devops stuff.
+
+
 <!--
 **Isitar/Isitar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
