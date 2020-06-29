@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a swiss software engineer. Feel free to look around, the most interesting projects are pinned.
+I'm a Swiss software engineer. Feel free to look around, the most interesting projects are pinned.
 
-I'm currently working with .NET and VUE. I'm also working with docker, k8s and other devops stuff.
+This is my private Github account where I store most of my personal projects. In my working life I mainly deal with .NET and VUE.JS. I also work with docker and k8s. I love working with .NET so most of my projects are done with it.
 
 
 <!--
