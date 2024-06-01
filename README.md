@@ -1,10 +1,9 @@
-### Hi there 👋
+###  Welcome 🧙
+Step into the enchanted realm of software sorcery, where I, the Swiss Software Sorcerer, wield the mystical powers of .NET by day, conjuring spells of digital wonderment that dazzle the mind and enchant the senses. But as the moon ascends its celestial throne and the stars illuminate the night sky, my true adventure begins.
 
-I'm a Swiss software engineer. Feel free to look around, the most interesting projects are pinned.
+In the mystical recesses of my free time, I am not merely a practitioner of the arcane arts; I am an intrepid explorer of the unknown, a fearless wanderer of the digital wilderness. Kubernetes? Behold as I summon its powers and bend them to my will! Data science? Watch as I delve deep into the arcane depths of data, unraveling its secrets one algorithm at a time. And when it comes to mathematical optimization, it is not just a pursuit—it is a quest, a noble journey to unlock the secrets of the cosmos through the language of numbers.
 
-This is my private Github account where I store most of my personal projects. In my working life I mainly deal with .NET and VUE.JS. I also work with docker and k8s. I love working with .NET so most of my projects are done with it.
-
-
+Every moment of leisure is a chance to push the boundaries of what is known, to uncover new realms of possibility, and to craft innovations that transcend the ordinary. Join me on this mystical odyssey where lines of code are the incantations of a grand spell, where every challenge is an opportunity to shine, and where the ancient magic of mathematical optimization fuels my passion for software sorcery!
 <!--
 **Isitar/Isitar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
